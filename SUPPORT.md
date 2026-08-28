@@ -40,7 +40,7 @@ runtime installation is required.
 
 The first hold after Stream Deck starts warms the local model. A current GPU
 driver enables Vulkan acceleration on compatible hardware; otherwise the plugin
-uses the CPU automatically. No Vulkan SDK or CUDA toolkit should be installed.
+uses the CPU automatically. No Vulkan SDK or CUDA toolkit is required.
 
 ### Text is not inserted after transcription
 
